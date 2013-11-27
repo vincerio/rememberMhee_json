@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<title>Let ma bear remember your tasks!</title>
+	<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+	<script type="text/javascript" src="/static/jquery-1.10.2.min.js"></script>
+	<script type="text/javascript" src="/static/jquery.textarea.js"></script>
+	<script type="text/javascript" src="/static/mainScript.js"></script>
+	<script type="text/javascript" src="/static/bootstrap/js/bootstrap.min.js"></script>
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<link rel="stylesheet" href="/static/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/static/main.css">
+	<link rel="stylesheet" href="/static/fontLibrary.css">
+
+
+	
+	
+	<script>
+	jQuery(document).ready(function () {
+	$("textarea.tabby").tabby();
+	});
+	</script>
+	
+
+</head>
+<body>
+<header>
+	<div id="mheeNav">
+		<div id="mheeNavInner"> <a href="/">Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/tasks">Tasks</a>
+		</div>
+	</div>
+	<div id="mheeBanner">
+		<div id="mheeBannerInner">
+			<div id="bear1house">
+				<img src="/static/image/bear1.png"></img>
+			</div>
+			<div id="mheeConcept">
+				Remember Mhee
+			</div>
+			<div id="bear2house">
+				<img src="/static/image/bear2.png"></img>
+			</div>
+		</div>
+	</div>
+</header>
+{% block bodycontent %}
+	<div id="mheeContent">
+		<div id="mheeContentInner"><h1><i class="fa fa-question fa-lg"></i> What is Remember Mhee?</h1><br/>
+			<div style="margin-left:40px;">
+				<h3><i class="fa fa-check-square-o fa-2x" style="color:#85DB30;margin-right:10px;"></i>A cheesy list-to-do service.<h3>
+				<h3><i class="fa fa-check-square-o fa-2x" style="color:#85DB30;margin-right:10px;"></i>Keep track your progress with us!<h3><br/>
+				<div id="startMhee"><a href="/tasks" >Get started!</a></div>
+			</div>
+		</div>
+	</div>
+	
+
+	
+{% endblock %}
+</body>
+</html>

@@ -1,0 +1,28 @@
+*{ padding:0px;margin:0px; }
+body{font-family:Helvetica,Arial;font-weight: 300;}
+/* css in base */
+#mheeNav{width:100%;height:30px;background-color:#29AA86;}
+#mheeNavInner{width:920px;color:white;line-height:30px;font-size:15px;margin-left:auto;margin-right:auto;}
+#mheeNav a{text-decoration:none;color:white;}
+#mheeNav a:hover{color:#C4EDE9;}
+#mheeBanner{ width:100%px;height:220px;background-color:#A5C639;}
+#mheeBannerInner{ width:920px;margin-left:auto;margin-right:auto; }
+#bear1house{padding:5px;float:left;}
+#mheeConcept{float:left;margin-left:20px;margin-right:20px;font-size:50px;line-height:220px;}
+
+#bear2house{padding:5px;float:left;}
+#mheeContent{width:100%;min-height:600px;background-color:#C4EDE9;}
+#mheeContentInner{width:900px;margin-left:auto;margin-right:auto;padding:10px;}
+#startMhee{width:200px;height:50px;line-height:50px;font-size:20px;color:white;background-color:#85DB30;border-radius:10px;text-align:center;}
+#startMhee a{text-decoration:none;color:white;}
+#mheeTasks{width:100%;min-height:600px;background-color:#C4EDE9;}
+#mheeTasksInner{width:600px;margin-left:auto;margin-right:auto;padding:10px;}
+#tag {width:80px;float:left;}
+#mheeOneTask{width:100%;min-height:600px;background-color:#C4EDE9;}
+#mheeOneTaskInner{width:600px;margin-left:auto;margin-right:auto;padding:10px;}
+#mheeDisplayBox{width:500px;min-height:300px;background-color:#FCFBE3;;border-radius:20px;padding:10px;}
+#mheeHole{width:20px;height:20px;background-color:#C4EDE9;border-radius:100%;float:left;margin:5px;}
+#mheeDesc{width:230px;padding:10px;max-height:330px;float:left;}
+#mheeFinish{width:230px;height:200px;float:right;text-align:center;}
+#mheeUnfinish{width:190px;height:200px;float:right;margin-right:15px;text-align:center;}
+

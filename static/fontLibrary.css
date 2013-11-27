@@ -1,0 +1,50 @@
+@font-face {font-family:Charmonman;	src:url("/static/fontLibrary/TH/01-TH-Charmonman/TH Charmonman.ttf");}
+.CharmonmanFont{font-family:Charmonman;}
+
+@font-face {font-family:Krub;src: url("/static/fontLibrary/TH/02-TH-Krub/TH Krub.ttf");}
+.KrubFont{font-family:Krub;}
+
+@font-face {font-family:Srisakdi;src: url("/static/fontLibrary/TH/03-TH-Srisakdi/TH Srisakdi.ttf");}
+.SrisakdiFont{font-family:Srisakdi;}
+
+@font-face {font-family:Niramit;src: url("/static/fontLibrary/TH/04-TH-Niramit-AS/TH Niramit AS.ttf");}
+.NiramitFont{font-family:Niramit;}
+
+@font-face {font-family:CharmOfAU;src: url("/static/fontLibrary/TH/05-TH-Charm-of-AU/TH Charm of AU.ttf");}
+.CharmOfAUFont{font-family:CharmOfAU;}
+
+@font-face {font-family:Kodchasal;src: url("/static/fontLibrary/TH/06-TH-Kodchasal/TH Kodchasal.ttf");}
+.KodchasalFont{font-family:Kodchasal;}
+
+@font-face {font-family:July8;src: url("/static/fontLibrary/TH/08-TH-K2D-July8/TH K2D July8.ttf");}
+.July8Font{font-family:July8;}
+
+@font-face {font-family:MaliGrade6;src: url("/static/fontLibrary/TH/09-TH-Mali-Grade-6/TH Mali Grade6.ttf");}
+.MaliGrade6Font{font-family:MaliGrade6;}
+
+@font-face {font-family:ChakraPetch;src: url("/static/fontLibrary/TH/10-TH-Chakra-Petch/TH Chakra Petch.ttf");}
+.ChakraPetchFont{font-family:ChakraPetch;}
+
+@font-face {font-family:Baijam;src: url("/static/fontLibrary/TH/11-TH-Baijam/TH Baijam.ttf");}
+.BaijamFont{font-family:Baijam;}
+
+@font-face {font-family:KoHo;src: url("/static/fontLibrary/TH/12-TH-KoHo/TH KoHo.ttf");}
+.KoHoFont{font-family:KoHo;}
+
+@font-face {font-family:FahKwang;src: url("/static/fontLibrary/TH/13-TH-Fah-Kwang/TH Fahkwang.ttf");}
+.FahKwangFont{font-family:FahKwang;}
+
+@font-face {font-family:Waffle-Light;src: url("/static/fontLibrary/TH/Waffle-Font/Waffle Light.otf");}
+.Waffle-LightFont{font-family:Waffle-Light;}
+
+@font-face {font-family:Waffle-Regular;src: url("/static/fontLibrary/TH/Waffle-Font/Waffle Regular.otf");}
+.Waffle-RegularFont{font-family:Waffle-Regular;}
+
+@font-face {font-family:WDB_Bangna;src: url("/static/fontLibrary/TH/WDB_Bangna/WDB_Bangna.ttf");}
+.WDB_BangnaFont{font-family:WDB_Bangna;}
+
+@font-face {font-family:kruengprung;src: url("/static/fontLibrary/TH/kruengprung/kruengprung.ttf");}
+.kruengprungFont{font-family:kruengprung;}
+
+@font-face {font-family:Sarangheyo;src: url("/static/fontLibrary/TH/Layiji sarangheyo/LayijiSarangheyo.ttf");}
+.SarangheyoFont{font-family:Sarangheyo;}
